@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "6746ec285c68e9361dc1bc49c8c3bdb4dd5c83d6301a1e2d755fa8186943387a"
+build_start_time: [1667395432, 926814079]
+build_end_time: [1667395436, 883008003]
+inputs:
+  "/Users/xieminglin/Desktop/code/code/ContentView.swift": [1667395423, 522507667]
+  "/Users/xieminglin/Desktop/code/code/codeApp.swift": [1667395423, 519168853]
