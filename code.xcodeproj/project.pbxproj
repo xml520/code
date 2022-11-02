@@ -58,7 +58,6 @@
 		EA0A107C2912A6E20026CEEB /* codeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = codeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA0A10802912A6E20026CEEB /* codeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = codeUITests.swift; sourceTree = "<group>"; };
 		EA0A10822912A6E20026CEEB /* codeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = codeUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		EA76B0742912CDDB00E09C42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,7 +108,6 @@
 		EA0A10642912A6DF0026CEEB /* code */ = {
 			isa = PBXGroup;
 			children = (
-				EA76B0742912CDDB00E09C42 /* Info.plist */,
 				EA0A10652912A6DF0026CEEB /* codeApp.swift */,
 				EA0A10672912A6DF0026CEEB /* ContentView.swift */,
 				EA0A10692912A6E10026CEEB /* Assets.xcassets */,
